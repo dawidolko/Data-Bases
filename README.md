@@ -6,9 +6,7 @@ Data-Bases is a repository dedicated to programming and working with databases. 
 ## **Repository Structure:**
 /Projects: This folder contains various projects where we focus on programming and using databases. Each project has its own folder with description, source code and project files.
 
-/Scripts: This folder contains ready-made scripts and tools that make working with databases easier, such as SQL scripts, administration tools, etc.
-
-/Resources: Here you will find educational materials such as tutorials, guides and articles to help you learn and understand the database and related topics.
+/Labs: This folder contains ready-made scripts and tools that make working with databases easier, such as SQL scripts, administration tools, etc.
 
 ## **How ​​to start:**
 
