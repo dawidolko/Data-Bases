@@ -128,31 +128,58 @@ Serwer zarządza dostępem do danych, zapewniając lepsze zabezpieczenia systemu
  
  
 ## Zadania 
-1.	Definicja Bazy Danych: 
+1.	Definicja Bazy Danych:
+   
  a.	Jak definiujesz bazę danych? 
+ 
  b.	Dlaczego trwałość i zgodność z rzeczywistością są kluczowymi cechami baz danych? 
-2.	Cechy Baz Danych: 
+ 
+2.	Cechy Baz Danych:
+   
  a.	Jakie są kluczowe cechy baz danych i dlaczego trwałość jest ważna? 
+ 
  b.	Jakie są korzyści z utrzymywania zgodności z rzeczywistością w bazie danych? 
+ 
 3.	Specjalność Bazy Danych: 
+
  a.	W jaki sposób operacyjne bazy danych różnią się od analitycznych? 
+ 
  b.	Dlaczego istnieje potrzeba specjalizacji w zarządzaniu różnymi rodzajami informacji? 
+ 
 4.	Geneza Relacyjnych Baz Danych: 
+
  a.	Co to jest relacyjny model danych? 
+ 
  b.	Jakie są podstawowe założenia postulatów Codda dotyczących relacyjnych baz danych? 
+ 
 5.	Podstawowe Założenia RBD – Postulaty Codda: 
+
  a.	Jakie są kluczowe postulaty Codda dotyczące relacyjnych baz danych? 
+ 
  b.	Jak wartość NULL przyczynia się do elastyczności w obszarze zarządzania danymi? 
+ 
 6.	Systemy Zarządzania Bazami Danych (DBMS): 
+
  a.	Jakie są główne zadania, jakie pełnią Systemy Zarządzania Bazami Danych (DBMS)? 
-7.	Przykłady DBMS: 
+ 
+7.	Przykłady DBMS:
+    
  a.	Podaj przykłady zastosowań DBMS w różnych sektorach, takich jak bankowość czy zarządzanie przedsiębiorstwem. 
-8.	Architektura SZBD: 
+ 
+8.	Architektura SZBD:
+    
  a.	Co obejmuje architektura systemów zarządzania bazami danych? 
+ 
  b.	Dlaczego model klient-serwer jest powszechnie stosowany w tej architekturze? 
-9.	Schemat Architektury Klient-Serwer: 
+ 
+9.	Schemat Architektury Klient-Serwer:
+    
  a.	Jakie są główne komponenty architektury klient-serwer? 
+ 
  b.	Jakie zadania wykonuje klient w tej architekturze? 
-10.	Zalety Architektury Klient-Serwer: 
+ 
+10.	Zalety Architektury Klient-Serwer:
+    
  a.	Jakie są zalety skalowalności w architekturze klient-serwer? 
+ 
  b.	Dlaczego rozdzielenie zadań między klienta a serwer przyczynia się do efektywności systemu? 
