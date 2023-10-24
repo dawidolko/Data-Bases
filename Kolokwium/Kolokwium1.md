@@ -4,7 +4,7 @@
 Odpowiedź poprawnie na pytania. 
 
 ### 1.	Jak definiujesz bazę danych?
-a.	Kolekcja powiązanych ze sobą informacji w formie tabeli.\
+*a.	Kolekcja powiązanych ze sobą informacji w formie tabeli.*\
 b.	Zbiór przypadkowych danych bez struktury.\
 c.	Skomplikowany program komputerowy.\
 d.	Zbiór wszystkich plików w systemie operacyjnym.\
@@ -163,7 +163,7 @@ a.	Jedynie operacje matematyczne.\
 b.	Wyłącznie operacje związane z indeksami.\
 c.	Dodawanie, usuwanie, aktualizowanie i pobieranie danych.\
 d.	Operacje związane tylko z typami danych tekstowymi.\
-33.	Dlaczego instrukcja "SELECT" jest traktowana zarówno jako część DML, jak i jako część języka zapytań?
+### 33.	Dlaczego instrukcja "SELECT" jest traktowana zarówno jako część DML, jak i jako część języka zapytań?
 a.	"SELECT" jest używane tylko w instrukcjach DDL.\
 b.	"SELECT" służy jedynie do tworzenia nowych tabel.\
 c.	Pozwala na pobieranie danych z bazy danych i jest kluczowym elementem języka zapytań.\
