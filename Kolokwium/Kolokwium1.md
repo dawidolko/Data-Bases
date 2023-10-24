@@ -4,7 +4,7 @@
 Odpowiedź poprawnie na pytania. 
 
 ### 1.	Jak definiujesz bazę danych?
-*a.	Kolekcja powiązanych ze sobą informacji w formie tabeli.*\
+**_a.	Kolekcja powiązanych ze sobą informacji w formie tabeli._**\
 b.	Zbiór przypadkowych danych bez struktury.\
 c.	Skomplikowany program komputerowy.\
 d.	Zbiór wszystkich plików w systemie operacyjnym.\
