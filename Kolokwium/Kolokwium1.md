@@ -57,74 +57,74 @@ d.	Zwiększa ryzyko utraty danych.\
 a.	Tylko dostarczanie interfejsu graficznego.\
 b.	Wsparcie analizy statystycznej danych.\
 c.	Kontrola jedynie nad fizycznym przechowywaniem danych.\
-d.	Zarządzanie bazą danych, zapewniając bezpieczeństwo i dostęp do danych.\
+**_d.	Zarządzanie bazą danych, zapewniając bezpieczeństwo i dostęp do danych._**\
 ### 12.	Dlaczego model klient-serwer jest powszechnie stosowany w architekturze baz danych?
 a.	Jest używany tylko w małych architekturach webowych dla ulepszenia ich działania.\
-b.	Umożliwia równoczesny dostęp wielu klientów do bazy danych.\
+**_b.	Umożliwia równoczesny dostęp wielu klientów do bazy danych._**\
 c.	Ogranicza dostęp do bazy danych tylko do jednego użytkownika.\
 d.	Jest stosowany wyłącznie w przypadku małych baz danych.\
 ### 13.	Jakie są główne komponenty architektury klient-serwer?
 a.	Tylko klient.\
-b.	Klient, serwer i baza danych.\
+**_b.	Klient, serwer i baza danych._**\
 c.	Serwer i interfejs graficzny.\
 d.	Klient, serwer i archiwum danych.\
 ### 14.	Wyjaśnij, dlaczego klucz główny jest istotny w relacyjnym modelu bazy danych. Opisz, jakie korzyści przynosi jego użycie w identyfikowaniu unikalnych rekordów w tabeli.
 a.	Klucz główny jest zbędny w relacyjnym modelu.\
-b.	Umożliwia jednoznaczne identyfikowanie rekordów i eliminuje duplikaty.\
+**_b.	Umożliwia jednoznaczne identyfikowanie rekordów i eliminuje duplikaty._**\
 c.	Klucz główny jest używany tylko w bazach danych analitycznych.\
 d.	Jest to jedynie narzędzie pomocnicze bez wpływu na unikalność rekordów.\
 ### 15.	Omów główne różnice między kluczem głównym a kluczem obcym. Podaj przykłady sytuacji, w których każdy z tych kluczy jest stosowany.
 a.	Klucz główny identyfikuje relacje, a klucz obcy jest zbędny.\
 b.	Klucz główny to jedynie dodatkowa kolumna, a klucz obcy nie jest wymagany.\
-c.	Klucz główny identyfikuje unikalność rekordów, a klucz obcy nawiązuje relacje między tabelami.\
+**_c.	Klucz główny identyfikuje unikalność rekordów, a klucz obcy nawiązuje relacje między tabelami._**\
 d.	Oba klucze są używane tylko w przypadku małych baz danych.\
 ### 16.	Wyjaśnij różnicę między atrybutem prostym a atrybutem złożonym. Podaj przykłady dla obu rodzajów atrybutów.
 a.	Atrybut złożony to jedynie typ danych, a atrybut prosty jest bardziej skomplikowany.\
-b.	Atrybut prosty to jedna wartość, a atrybut złożony może składać się z podstawowych atrybutów.\
+**_b.	Atrybut prosty to jedna wartość, a atrybut złożony może składać się z podstawowych atrybutów._**\
 c.	Atrybut prosty nie może zawierać wartości null, a atrybut złożony może.\
 d.	Oba rodzaje atrybutów są synonimami i mogą być używane zamiennie.\
 ### 17.	Opisz różnicę między atrybutem pochodnym a atrybutem przechowywanym. Przedstaw sytuacje, w których stosuje się każdy z tych rodzajów atrybutów.
 a.	Atrybut pochodny to tylko nazwa, a atrybut przechowywany zawiera faktyczne dane.\
-b.	Atrybut przechowywany jest obliczany na podstawie innych atrybutów, a atrybut pochodny jest przechowywany bezpośrednio.\
+**_b.	Atrybut przechowywany jest obliczany na podstawie innych atrybutów, a atrybut pochodny jest przechowywany bezpośrednio._**\
 c.	Oba rodzaje atrybutów są używane wyłącznie w przypadku dużych baz danych.\
 d.	Atrybut pochodny jest zbędny w relacyjnych bazach danych.\
 ### 18.	W jakich sytuacjach wartość NULL jest używana w relacyjnych bazach danych? Wyjaśnij znaczenie wartości NULL i przedstaw przykłady, kiedy może być ona stosowana.
 a.	Wartość NULL jest używana do ukrywania danych przed użytkownikami.\
-b.	Oznacza brak danych w określonym polu i może być używana w sytuacjach, gdzie nie wszystkie informacje są dostępne.\
+**_b.	Oznacza brak danych w określonym polu i może być używana w sytuacjach, gdzie nie wszystkie informacje są dostępne._**\
 c.	Wartość NULL jest stosowana wyłącznie w przypadku atrybutów prostych.\
 d.	Wartość NULL nie ma wpływu na integralność danych i jest stosowana tylko w celach kosmetycznych.\
 ### 19.	Jak klucz jednoznaczny różni się od klucza głównego? Wytłumacz, dlaczego identyfikacja zbioru encji za pomocą klucza jednoznacznego.
 a.	Klucz jednoznaczny i klucz główny są synonimami.\
-b.	Klucz jednoznaczny może zawierać wartości null, a klucz główny nie.\
+**_b.	Klucz jednoznaczny może zawierać wartości null, a klucz główny nie._**\
 c.	Klucz główny identyfikuje unikalność rekordów w tabeli, a klucz jednoznaczny identyfikuje unikalność encji.\
 d.	Oba klucze są zbędne w bazach danych.\
 ### 20.	Co obejmuje etap projektowania fizycznego w tworzeniu relacyjnej bazy danych? Opisz decyzje i kroki, które są podejmowane na tym etapie.
 a.	Projektowanie fizyczne skupia się wyłącznie na strukturze tabel.\
-b.	Decyzje dotyczące indeksów, partycjonowania tabel i alokacji przestrzeni na dysku są kluczowe na etapie projektowania fizycznego.\
+**_b.	Decyzje dotyczące indeksów, partycjonowania tabel i alokacji przestrzeni na dysku są kluczowe na etapie projektowania fizycznego._**\
 c.	Projektowanie fizyczne nie ma wpływu na wydajność systemu bazodanowego.\
 d.	Wszystkie decyzje dotyczące bazy danych są podejmowane na etapie projektowania koncepcyjnego.\
 ### 21.	Wytłumacz, dlaczego integralność danych jest istotna w relacyjnych bazach danych. Opisz różne rodzaje integralności danych i jak są one utrzymane w systemie bazodanowym.
 a.	Integralność danych nie ma znaczenia w relacyjnych bazach danych.\
-b.	Zapewnia poprawność danych poprzez utrzymanie spójności i unikalności informacji.\
+**_b.	Zapewnia poprawność danych poprzez utrzymanie spójności i unikalności informacji._**\
 c.	Różne rodzaje integralności to tylko kwestie kosmetyczne.\
 d.	Integralność danych zależy wyłącznie od używanych narzędzi graficznych.\
 ### 22.	Jak schematy tabel i indeksy są używane w projektowaniu relacyjnej bazy danych? Przedstaw korzyści wynikające z ich zastosowania oraz ich wpływ na wydajność systemu bazodanowego.
 a.	Schematy tabel są używane do ukrywania danych, a indeksy są zbędne.\
-b.	Schematy tabel definiują strukturę danych, a indeksy przyspieszają wyszukiwanie danych i poprawiają wydajność.\
+**_b.	Schematy tabel definiują strukturę danych, a indeksy przyspieszają wyszukiwanie danych i poprawiają wydajność._**\
 c.	Zarówno schematy tabel, jak i indeksy są używane tylko w małych bazach danych.\
 d.	Schematy tabel służą jedynie do określenia kolorów w interfejsie graficznym.\
 ### 23.	Analiza wymagań jest kluczowym etapem w projektowaniu bazy danych. Wyjaśnij, jakie informacje są zbierane i jak wpływają na kształtowanie struktury bazy danych.
-a.	W trakcie analizy zbierane są informacje dotyczące rodzaju danych, relacji między nimi i wymagań dotyczących dostępu.\
+**_a.	W trakcie analizy zbierane są informacje dotyczące rodzaju danych, relacji między nimi i wymagań dotyczących dostępu._**\
 b.	Analiza wymagań jest zbędna, ponieważ struktura bazy danych nie zależy od potrzeb użytkowników.\
 c.	Kształtowanie struktury bazy danych jest niezależne od analizy wymagań.\
 d.	Analiza wymagań skupia się wyłącznie na aspektach estetycznych interfejsu graficznego.\
 ### 24.	Wytłumacz, jak diagramy związków encji (ERD) są używane w fazie projektowania koncepcyjnego. Opisz elementy takiego diagramu i jakie informacje można z niego uzyskać.
 a.	Diagramy związków encji są używane wyłącznie na etapie projektowania fizycznego.\
 b.	Diagramy związków encji nie mają wpływu na projektowanie bazy danych.\
-c.	ERD pomaga przedstawić relacje między encjami, a jego elementy to encje, atrybuty i związki.\
+**_c.	ERD pomaga przedstawić relacje między encjami, a jego elementy to encje, atrybuty i związki._**\
 d.	ERD jest używane wyłącznie do rysowania grafik w interfejsie graficznym.\
 ### 25.	Jakie są główne cele modelowania pojęciowego w kontekście baz danych?
-a.	Ułatwienie zrozumienia struktury bazy danych.\
+**_a.	Ułatwienie zrozumienia struktury bazy danych._**\
 b.	Tylko estetyczne przedstawienie danych.\
 c.	Modelowanie pojęciowe nie ma wpływu na cele baz danych.\
 d.	Jedynie określenie kolorów w interfejsie graficznym.\
@@ -132,64 +132,64 @@ d.	Jedynie określenie kolorów w interfejsie graficznym.\
 a.	Klucze są zbędne na tym etapie projektowania.\
 b.	Klucze są ważne tylko w modelowaniu fizycznym.\
 c.	Modelowanie pojęciowe nie uwzględnia kluczy.\
-d.	Ułatwiają identyfikację unikalnych elementów w modelu.\
+**_d.	Ułatwiają identyfikację unikalnych elementów w modelu._**\
 ### 27.	W jaki sposób diagramy ERD pomagają w zrozumieniu struktury bazy danych?
 a.	ERD jest używane tylko do rysowania grafik.\
 b.	Diagramy ERD są stosowane wyłącznie na etapie projektowania fizycznego.\
 c.	Modelowanie pojęciowe nie korzysta z diagramów ERD.\
-d.	Przedstawiają graficznie relacje między encjami, atrybutami i związkami.\
+**_d.	Przedstawiają graficznie relacje między encjami, atrybutami i związkami._**\
 ### 28.	Jakie są kluczowe elementy języka DDL?
-a.	Definiuje strukturę bazy danych, taką jak tabele, indeksy i klucze.\
+**_a.	Definiuje strukturę bazy danych, taką jak tabele, indeksy i klucze._**\
 b.	Język DDL obejmuje tylko instrukcje SELECT.\
 c.	Język DDL jest używany tylko do komunikacji z użytkownikami.\
 d.	W języku DDL nie ma kluczowych elementów.\
 ### 29.	Co oznacza instrukcja "CREATE TABLE" w języku DDL i jakie są jej zastosowania?
-a.	Służy do tworzenia nowej tabeli w bazie danych.\
+**_a.	Służy do tworzenia nowej tabeli w bazie danych._**\
 b.	Tworzy nową bazę danych.\
 c.	Instrukcja "CREATE TABLE" jest nieistotna w języku DDL.\
 d.	Jest używana wyłącznie do usuwania tabel.\
 ### 30.	Dlaczego klucze główne i obce są ważne przy definiowaniu struktury bazy danych za pomocą DDL?
 a.	Klucze są zbędne na etapie definicji struktury bazy danych.\
-b.	Umożliwiają określenie relacji między tabelami i zachowanie spójności danych.\
+**_b.	Umożliwiają określenie relacji między tabelami i zachowanie spójności danych._**\
 c.	Klucze główne i obce nie są używane w języku DDL.\
 d.	Są stosowane tylko w przypadku małych baz danych.\
 ### 31.	W jaki sposób instrukcje DML pozwalają na manipulację danymi w bazie danych?
 a.	Służą jedynie do definiowania struktury bazy danych.\
 b.	Pozwalają na wizualizację danych za pomocą diagramów.\
-c.	Umożliwiają dodawanie, usuwanie, modyfikowanie i pobieranie danych.\
+**_c.	Umożliwiają dodawanie, usuwanie, modyfikowanie i pobieranie danych._**\
 d.	Instrukcje DML nie mają wpływu na manipulację danymi.\
 ### 32.	Jakie są podstawowe operacje, które można wykonywać za pomocą instrukcji DML?
 a.	Jedynie operacje matematyczne.\
 b.	Wyłącznie operacje związane z indeksami.\
-c.	Dodawanie, usuwanie, aktualizowanie i pobieranie danych.\
+**_c.	Dodawanie, usuwanie, aktualizowanie i pobieranie danych._**\
 d.	Operacje związane tylko z typami danych tekstowymi.\
 ### 33.	Dlaczego instrukcja "SELECT" jest traktowana zarówno jako część DML, jak i jako część języka zapytań?
 a.	"SELECT" jest używane tylko w instrukcjach DDL.\
 b.	"SELECT" służy jedynie do tworzenia nowych tabel.\
-c.	Pozwala na pobieranie danych z bazy danych i jest kluczowym elementem języka zapytań.\
+**_c.	Pozwala na pobieranie danych z bazy danych i jest kluczowym elementem języka zapytań._**\
 d.	"SELECT" nie jest używane w żadnym przypadku.\
 ### 34.	Co oznacza, że transakcja jest atomowa?
 a.	Transakcja jest zawsze nieudana.\
-b.	Wszystkie operacje transakcji muszą być albo w pełni zakończone, albo w ogóle nie mieć miejsca.\
+**_b.	Wszystkie operacje transakcji muszą być albo w pełni zakończone, albo w ogóle nie mieć miejsca._**\
 c.	Atomowa transakcja jest zawsze powolna i czasochłonna.\
 d.	Transakcja może być zakończona jedynie przez administratora bazy danych.\
 ### 35.	Jakie są główne koncepcje związane z encjami w kontekście modelowania danych?
 a.	Encje to jedynie nazwy tabel w bazie danych.\
-b.	Encje reprezentują logiczne grupy danych, które można identyfikować i skategoryzować.\
+**_b.	Encje reprezentują logiczne grupy danych, które można identyfikować i skategoryzować._**\
 c.	Modelowanie danych nie korzysta z pojęcia encji.\
 d.	Encje są używane wyłącznie na etapie projektowania fizycznego.\
 ### 36.	W jaki sposób encje są reprezentowane w diagramach ERD?
 a.	Jako jedynie nazwy tabel.\
 b.	Encje są używane tylko na etapie modelowania pojęciowego.\
-c.	Symbolicznie za pomocą prostokątów, reprezentujących struktury danych.\
+**_c.	Symbolicznie za pomocą prostokątów, reprezentujących struktury danych._**\
 d.	Jako ikony graficzne bez związku z danymi.\
 ### 37.	Jakie są podstawowe elementy składowe encji w diagramie ERD?
 a.	Tylko nazwa encji.\
 b.	Encje są nieważne w kontekście diagramów ERD.\
-c.	Nazwa, atrybuty i związek z innymi encjami.\
+**_c.	Nazwa, atrybuty i związek z innymi encjami._**\
 d.	Tylko związek z innymi encjami.\
 ### 38.	Dlaczego atrybuty są istotne dla encji w modelowaniu dany\ch?
-a.	Określają cechy lub właściwości, które identyfikują i opisują encje.\
+**_a.	Określają cechy lub właściwości, które identyfikują i opisują encje._**\
 b.	Atrybuty nie mają wpływu na encje.\
 c.	Atrybuty są używane tylko na etapie projektowania fizycznego.\
 d.	Encje są definiowane wyłącznie przez nazwy tabel.\
@@ -197,9 +197,9 @@ d.	Encje są definiowane wyłącznie przez nazwy tabel.\
 a.	Atrybut kluczowy jest zbędny w modelowaniu danych.\
 b.	Oba rodzaje atrybutów są synonimami.\
 c.	Atrybut nielosowy jest używany wyłącznie w modelowaniu fizycznym.\
-d.	Atrybut kluczowy identyfikuje unikalność encji, a atrybut nielosowy to jedynie dodatkowe informacje.\
+**_d.	Atrybut kluczowy identyfikuje unikalność encji, a atrybut nielosowy to jedynie dodatkowe informacje._**\
 ### 40.	W jaki sposób atrybuty wielowartościowe wpływają na strukturę encji?
 a.	Atrybuty wielowartościowe nie są używane w modelowaniu danych.\
-b.	Określają cechy, które przyjmują wiele wartości dla jednej encji.\
+**_b.	Określają cechy, które przyjmują wiele wartości dla jednej encji._**\
 c.	Są jedynie alternatywą dla atrybutów kluczowych.\
 d.	Encje nie zawierają atrybutów wielowartościowych.\
