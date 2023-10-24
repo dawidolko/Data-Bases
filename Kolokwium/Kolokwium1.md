@@ -4,8 +4,8 @@
 Odpowiedź poprawnie na pytania. 
 
 ### 1.	Jak definiujesz bazę danych?
-a.	Kolekcja powiązanych ze sobą informacji w formie tabeli.
-b.	Zbiór przypadkowych danych bez struktury.
+a.	Kolekcja powiązanych ze sobą informacji w formie tabeli./
+b.	Zbiór przypadkowych danych bez struktury./
 c.	Skomplikowany program komputerowy.
 d.	Zbiór wszystkich plików w systemie operacyjnym.
 ### 2.	Dlaczego trwałość i zgodność z rzeczywistością są kluczowymi cechami baz danych?
