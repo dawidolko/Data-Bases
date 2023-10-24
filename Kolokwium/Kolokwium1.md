@@ -14,8 +14,8 @@ a.	Optymalizacja zapytań SQL.\
 c.	Zapewniają jedynie elastyczność w dostępie.\
 d.	Wspomagają jedynie analizę danych statystycznych.\
 ### 3.	Jakie są kluczowe cechy baz danych i dlaczego trwałość jest ważna?
-**_a.	Zapewniają integralność danych.\
-b.	Struktura danych oparta na pojęciu hierarchii danych._**\
+**_a.	Zapewniają integralność danych._**\
+b.	Struktura danych oparta na pojęciu hierarchii danych.\
 c.	Brak związku między danymi a ich strukturą.\
 d.	Jednolita struktura tabel i minimalizacja redundancji danych.\
 ### 4.	Jakie są korzyści z utrzymywania zgodności z rzeczywistością w bazie danych?
@@ -29,28 +29,28 @@ b.	Analityczne służą do codziennych operacji organizacji.\
 **_c.	Operacyjne obsługują transakcje i codzienne operacje biznesowe._**\
 d.	Analityczne są wyłącznie używane do monitorowania błędów w bazie danych.\
 ### 6.	Dlaczego istnieje potrzeba specjalizacji w zarządzaniu różnymi rodzajami informacji?
-a.	Każdy rodzaj informacji wymaga innej technologii przetwarzania.\
+**_a.	Każdy rodzaj informacji wymaga innej technologii przetwarzania._**\
 b.	Brak specjalizacji prowadzi do utraty danych.\
 c.	Specjalizacja ułatwia jednolite zarządzanie wszelkimi danymi.\
 d.	Wszystkie rodzaje informacji są identyczne w zarządzaniu nimi.\
 ### 7.	Co to jest relacyjny model danych?
 a.	Model oparty na pojęciu hierarchii.\
 b.	Model skupiający się na elastyczności danych.\
-c.	Struktura danych oparta na związkach między tabelami.\
+**_c.	Struktura danych oparta na związkach między tabelami._**\
 d.	Model bazujący na analizie czasowej danych.\
 ### 8.	Jakie są podstawowe założenia postulatów Codda dotyczących relacyjnych baz danych?
 a.	Brak związku między danymi a ich strukturą.\
 b.	Hierarchiczna organizacja informacji.\
-c.	Organizacja danych w tabelach, a dostęp do nich za pomocą języka zapytań.\
+**_c.	Organizacja danych w tabelach, a dostęp do nich za pomocą języka zapytań._**\
 d.	Zastosowanie danych jako obiektów niezmieniających się w czasie.\
 ### 9.	Jakie są kluczowe postulaty Codda dotyczące relacyjnych baz danych?
 a.	Elastyczność w definiowaniu struktury tabel i związków.\
-b.	Jednolita struktura tabel i minimalizacja redundancji danych.\
+**_b.	Jednolita struktura tabel i minimalizacja redundancji danych._**\
 c.	Brak relacji między danymi a ich interpretacją.\
 d.	Hierarchiczna organizacja informacji i brak normalizacji.\
 ### 10.	Jak wartość NULL przyczynia się do elastyczności w obszarze zarządzania danymi?
 a.	Zmniejsza elastyczność w manipulacji danymi.\
-b.	Umożliwia reprezentację braku danych.\
+**_b.	Umożliwia reprezentację braku danych._**\
 c.	Jest używana wyłącznie w bazach danych analitycznych do zwiększenia wydajności ich działania.\
 d.	Zwiększa ryzyko utraty danych.\
 ### 11.	Jakie są główne zadania, jakie pełnią Systemy Zarządzania Bazami Danych (DBMS)?
