@@ -10,23 +10,23 @@ c.	Skomplikowany program komputerowy.\
 d.	Zbiór wszystkich plików w systemie operacyjnym.\
 ### 2.	Dlaczego trwałość i zgodność z rzeczywistością są kluczowymi cechami baz danych?
 a.	Optymalizacja zapytań SQL.\
-b.	Chronią przed utratą danych i utrzymaniem spójności.\
+**_b.	Chronią przed utratą danych i utrzymaniem spójności._**\
 c.	Zapewniają jedynie elastyczność w dostępie.\
 d.	Wspomagają jedynie analizę danych statystycznych.\
 ### 3.	Jakie są kluczowe cechy baz danych i dlaczego trwałość jest ważna?
-a.	Zapewniają integralność danych.\
-b.	Struktura danych oparta na pojęciu hierarchii danych.\
+**_a.	Zapewniają integralność danych.\
+b.	Struktura danych oparta na pojęciu hierarchii danych._**\
 c.	Brak związku między danymi a ich strukturą.\
 d.	Jednolita struktura tabel i minimalizacja redundancji danych.\
 ### 4.	Jakie są korzyści z utrzymywania zgodności z rzeczywistością w bazie danych?
 a.	Zwiększenie liczby rekordów w tabeli.\
-b.	Umożliwia poprawne odzwierciedlenie rzeczywistych relacji między danymi.\
+**_b.	Umożliwia poprawne odzwierciedlenie rzeczywistych relacji między danymi._**\
 c.	Ograniczenie dostępu do bazy tylko dla administratorów.\
 d.	Zmniejszenie elastyczności w manipulacji danymi.\
 ### 5.	W jaki sposób operacyjne bazy danych różnią się od analitycznych?
 a.	Operacyjne bazują na analizie statystycznej.\
 b.	Analityczne służą do codziennych operacji organizacji.\
-c.	Operacyjne obsługują transakcje i codzienne operacje biznesowe.\
+**_c.	Operacyjne obsługują transakcje i codzienne operacje biznesowe._**\
 d.	Analityczne są wyłącznie używane do monitorowania błędów w bazie danych.\
 ### 6.	Dlaczego istnieje potrzeba specjalizacji w zarządzaniu różnymi rodzajami informacji?
 a.	Każdy rodzaj informacji wymaga innej technologii przetwarzania.\
