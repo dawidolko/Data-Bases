@@ -99,7 +99,7 @@ W niektórych systemach można ustawiać punkty zapisu w trakcie transakcji. To 
 Po zatwierdzeniu transakcji, zmiany muszą być trwałe i odporne na wszelkie awarie systemu. To zazwyczaj obejmuje zapisywanie zmian na trwałe na dysku.
 
 ## Zadania
-1. Modelowanie pojęciowe i Bazy Danych:
+### 1. Modelowanie pojęciowe i Bazy Danych:
 
 a. Jakie są główne cele modelowania pojęciowego w kontekście baz danych?
 
@@ -107,7 +107,7 @@ b. Dlaczego klucze są istotne w modelowaniu pojęciowym?
 
 c. W jaki sposób diagramy ERD pomagają w zrozumieniu struktury bazy danych?
 
-2. Język Opisu Danych (DDL):
+### 2. Język Opisu Danych (DDL):
 
 a. Jakie są kluczowe elementy języka DDL?
 
@@ -115,7 +115,7 @@ b. Co oznacza instrukcja "CREATE TABLE" w języku DDL i jakie są jej zastosowan
 
 c. Dlaczego klucze główne i obce są ważne przy definiowaniu struktury bazy danych za pomocą DDL?
 
-3. Język Manipulowania Danymi (DML):
+### 3. Język Manipulowania Danymi (DML):
 
 a. W jaki sposób instrukcje DML pozwalają na manipulację danymi w bazie danych?
 
@@ -123,7 +123,7 @@ b. Jakie są podstawowe operacje, które można wykonywać za pomocą instrukcji
 
 c. Dlaczego instrukcja "SELECT" jest traktowana zarówno jako część DML, jak i jako część języka zapytań?
 
-4. Transakcje w Bazie Danych:
+### 4. Transakcje w Bazie Danych:
 
 a. Co oznacza, że transakcja jest atomowa?
 
@@ -131,7 +131,7 @@ b. Jakie są cechy transakcji, takie jak spójność, izolacja i trwałość?
 
 c. Przedstaw przykłady sytuacji, w których transakcje są używane w bazach danych.
 
-5. Zarządzanie Transakcjami:
+### 5. Zarządzanie Transakcjami:
 
 a. Jak rozpoczyna się transakcję w bazie danych?
 
