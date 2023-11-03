@@ -1,5 +1,6 @@
 # Zadania 
-### 1. Definicja Bazy Danych: a. Jak definiujesz bazę danych? 
+### 1. Definicja Bazy Danych: 
+a. Jak definiujesz bazę danych? 
 b. Dlaczego trwałość i zgodność z rzeczywistością są kluczowymi cechami baz danych? 
 
 ## 2. Cechy Baz Danych: 
