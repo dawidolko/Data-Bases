@@ -46,7 +46,7 @@ b. Dlaczego rozdzielenie zadań między klienta a serwer przyczynia się do efek
 
 
 
-# Odpowiedzi:
+# Odpowiedzi
 
 
 ## 1.	Pojęcie Bazy Danych: 
