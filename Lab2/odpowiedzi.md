@@ -32,7 +32,7 @@ a.	Wyjaśnij, jak zapytania i widoki są używane podczas projektowania fizyczne
 ## 15.	Wpływ Klucza Głównego na Wydajność Bazy Danych: 
 a.	Jak wybór klucza głównego może wpływać na wydajność bazy danych? Przedstaw różnice między kluczem naturalnym a sztucznym oraz ich wpływ na indeksowanie i operacje na danych. 
 
-# Odpowiedzi:
+# Odpowiedzi
 
 ## 1. Definicja Klucza Głównego (Primary Key): 
 a. Klucz główny to atrybut lub zbiór atrybutów, który jednoznacznie identyfikuje każdy wiersz w tabeli. Jest istotny w relacyjnym modelu bazy danych, ponieważ zapewnia unikalność rekordów i pozwala na szybkie odnalezienie konkretnego rekordu.
