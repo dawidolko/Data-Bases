@@ -31,7 +31,7 @@ b.	W jaki sposób system bazy danych zarządza zatwierdzaniem i cofaniem transak
 
 c.	Co to jest izolacja transakcji i dlaczego jest ważna w kontekście równoczesnego dostępu do danych? 
 
-# Odpowiedzi:
+# Odpowiedzi
 
 ## 1.	Modelowanie pojęciowe i Bazy Danych: 
 a. Główne cele modelowania pojęciowego to:
