@@ -43,7 +43,7 @@ b.	Jakie są kroki przywracania danych z kopii zapasowej, i dlaczego warto je re
 
 c.	W jaki sposób procedury związane z backupem i odtwarzaniem pomagają minimalizować ryzyko utraty danych? 
 
-# Odpowiedzi:
+# Odpowiedzi
 
 ## 1.	Integralność Danych: 
 a. Główne aspekty to: klucze pierwotne, klucze obce, ograniczenia domeny oraz reguły biznesowe. 
