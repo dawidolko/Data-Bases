@@ -1,4 +1,4 @@
-# ZADANIA
+# Zadanie
 
 ### Zadanie 1:  
 Zaimportuj bazę danych „sklep_internetowy”. 
@@ -18,7 +18,7 @@ Używając polecenia `SELECT`, wyświetl jedynie nazwę i cenę produktów.
 ### Zadanie 6:  
 Używając polecenia `SELECT`, wyświetl id zamówienia i datę zamówienia dla tabeli zamówień. 
  
- # ODPOWIEDZI
+ # Odpowiedzi
 
 ## Zadanie 1:
 Zaimportuj bazę danych „sklep_internetowy”.
