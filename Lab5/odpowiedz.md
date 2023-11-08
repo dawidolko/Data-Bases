@@ -18,7 +18,7 @@ Używając polecenia `SELECT`, wyświetl jedynie nazwę i cenę produktów.
 ### Zadanie 6:  
 Używając polecenia `SELECT`, wyświetl id zamówienia i datę zamówienia dla tabeli zamówień. 
  
- # ODPOWIEDZI:
+ # ODPOWIEDZI
 
 ## Zadanie 1:
 Zaimportuj bazę danych „sklep_internetowy”.
