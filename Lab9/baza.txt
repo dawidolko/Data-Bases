@@ -1,1 +1,9 @@
+-- Tworzenie schematu "MojaBazaDanych"
+CREATE SCHEMA MojaBazaDanych;
 
+-- Tworzenie tabeli Klienci
+CREATE TABLE MojaBazaDanych.uzytkownicy (
+    ID INT,
+  Imie VARCHAR (50),
+  WIEK INT
+);
