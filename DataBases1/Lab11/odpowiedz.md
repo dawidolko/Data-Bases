@@ -57,6 +57,6 @@ Usunięcie wszystkich zamówień danego klienta i jego danych z tabeli klientów
 
 ## WYNIKI TABEL PO WSZYSTKICH DZIAŁANIACH:
 
-  <br>![](img/tabela1.png) 
-   <br>![](img/tabela2.png) 
+  <br>![](img/tabele1.png) 
+   <br>![](img/tabele2.png) 
  
