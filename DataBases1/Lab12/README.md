@@ -39,7 +39,7 @@ Napisz zapytanie SQL, które połączy tabelę "Zamowienia" z tabelą "Klienci" 
 ### Zadanie 3.2: Left Join
 Napisz zapytanie SQL, które pokaże wszystkie produkty (nazwa i cena), nawet jeśli nie zostały jeszcze zamówione.
 
-<br>![](img/zad3v3.png) 
+<br>![](img/zad3v2.png) 
 
 ### Zadanie 3.3: Right Join
 Napisz zapytanie SQL, które pokaże wszystkie zamówienia wraz z danymi klienta, nawet jeśli klient nie złożył jeszcze zamówienia.
